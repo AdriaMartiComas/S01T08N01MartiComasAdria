@@ -24,7 +24,6 @@ public class Main {
 		
 		llista.removeIf(l -> !l.contains("o") || l.length()<5);
 		
-		
 		System.out.println(llista);
 		
 
